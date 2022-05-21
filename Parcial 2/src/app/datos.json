@@ -1,0 +1,38 @@
+{
+  "publicaciones": [
+      {
+          "usuario": "@zflayn._",
+          "imagen": "../assets/imagenes/p1.jpg",
+          "caption": "Dibujo",
+          "comentario": "", 
+          "id": "a1"
+        },
+        {
+          "usuario": "@zflayn._",
+          "imagen": "../assets/imagenes/fd.jpg",
+          "caption": "Holaaaaa",
+          "comentario": "", 
+          "id": "a2"
+        },
+        {
+          "usuario": "@zflayn._",
+          "imagen": "./assets/imagenes/pf.jpg",
+          "caption": "Soi io",
+          "comentario": "", 
+          "id": "a3"
+        }
+  ],
+  "usuario" : {
+    "nombre":"pablo capistran",
+    "alias": "@zflayn._",
+    "fotoPerfil": "../assets/imagenes/pf.jpg",
+    "seguidores": 246,
+    "seguidos": 200,
+    "bio": "19y", 
+    "publicaciones": [
+      "../assets/imagenes/n.jpg",
+      "../assets/imagenes/pf.jpg",
+      "../assets/imagenes/fd.jpg"
+    ]
+  }
+}
